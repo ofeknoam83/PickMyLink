@@ -1,0 +1,43 @@
+# Version: 7.9.1.90 (0ba5e04)
+# [first argument, ignore] # /Users/noammeirofek/Projects/PickMyLink/PickMyLink.ios/bin/iPhoneSimulator/Debug/mtouch.exe
+/Developer/MonoTouch/usr/bin/mtouch \
+	-sdkroot \
+	/Applications/Xcode.app/Contents/Developer \
+	--cache \
+	/Users/noammeirofek/Projects/PickMyLink/PickMyLink.ios/obj/iPhoneSimulator/Debug/mtouch-cache \
+	--nomanifest \
+	--nosign \
+	-sim \
+	/Users/noammeirofek/Projects/PickMyLink/PickMyLink.ios/bin/iPhoneSimulator/Debug/PickMyLinkios.app \
+	-r \
+	/Users/noammeirofek/Projects/PickMyLink/PickMyLink/bin/Debug/PickMyLink.dll \
+	-r \
+	/Developer/MonoTouch/usr/lib/mono/2.1/System.dll \
+	-r \
+	/Developer/MonoTouch/usr/lib/mono/2.1/System.Xml.dll \
+	-r \
+	/Developer/MonoTouch/usr/lib/mono/2.1/System.Core.dll \
+	-r \
+	/Developer/MonoTouch/usr/lib/mono/2.1/monotouch.dll \
+	-r \
+	/Users/noammeirofek/Projects/PickMyLink/PickMyLink.ios/../packages/MvvmCross.HotTuna.CrossCore.3.1.1/lib/MonoTouch/Cirrious.CrossCore.Touch.dll \
+	-r \
+	/Users/noammeirofek/Projects/PickMyLink/PickMyLink.ios/../packages/MvvmCross.HotTuna.CrossCore.3.1.1/lib/MonoTouch/Cirrious.MvvmCross.Binding.Touch.dll \
+	-r \
+	/Users/noammeirofek/Projects/PickMyLink/PickMyLink.ios/../packages/MvvmCross.HotTuna.CrossCore.3.1.1/lib/MonoTouch/Cirrious.CrossCore.dll \
+	-r \
+	/Users/noammeirofek/Projects/PickMyLink/PickMyLink.ios/../packages/MvvmCross.HotTuna.CrossCore.3.1.1/lib/MonoTouch/Cirrious.MvvmCross.Binding.dll \
+	-r \
+	/Users/noammeirofek/Projects/PickMyLink/PickMyLink.ios/../packages/MvvmCross.HotTuna.CrossCore.3.1.1/lib/MonoTouch/Cirrious.MvvmCross.Localization.dll \
+	-r \
+	/Users/noammeirofek/Projects/PickMyLink/PickMyLink.ios/../packages/MvvmCross.HotTuna.MvvmCrossLibraries.3.1.1/lib/MonoTouch/Cirrious.MvvmCross.Touch.dll \
+	-r \
+	/Users/noammeirofek/Projects/PickMyLink/PickMyLink.ios/../packages/MvvmCross.HotTuna.MvvmCrossLibraries.3.1.1/lib/MonoTouch/Cirrious.MvvmCross.dll \
+	-debug \
+	-nolink \
+	-sdk \
+	7.1 \
+	-targetver \
+	7.0 \
+	--abi=i386 \
+	/Users/noammeirofek/Projects/PickMyLink/PickMyLink.ios/bin/iPhoneSimulator/Debug/PickMyLinkios.exe \

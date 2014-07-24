@@ -1,0 +1,19 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.IPhoneRetina.7.1" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="PickMyLink.ios/Views/FirstView.cs">
+    <Files>
+      <File FileName="PickMyLink/MyClass.cs" Line="1" Column="1" />
+      <File FileName="PickMyLink/App.cs" Line="1" Column="1" />
+      <File FileName="PickMyLink/ViewModels/FirstViewModel.cs" Line="1" Column="1" />
+      <File FileName="PickMyLink.ios/ToDo-MvvmCross/_ Touch UI.txt" Line="1" Column="1" />
+      <File FileName="PickMyLink.droid/Setup.cs" Line="25" Column="25" />
+      <File FileName="PickMyLink.ios/Setup.cs" Line="25" Column="25" />
+      <File FileName="PickMyLink.ios/Views/FirstView.cs" Line="28" Column="28" />
+      <File FileName="PickMyLink.ios/Main.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,0 +1,8 @@
+/Users/noammeirofek/Projects/PickMyLink/PickMyLink/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile78.AssemblyAttribute.cs
+/Users/noammeirofek/Projects/PickMyLink/PickMyLink/bin/Debug/PickMyLink.dll.mdb
+/Users/noammeirofek/Projects/PickMyLink/PickMyLink/bin/Debug/PickMyLink.dll
+/Users/noammeirofek/Projects/PickMyLink/PickMyLink/obj/Debug/PickMyLink.dll
+/Users/noammeirofek/Projects/PickMyLink/PickMyLink/obj/Debug/PickMyLink.dll.mdb
+/Users/noammeirofek/Projects/PickMyLink/PickMyLink/bin/Debug/Cirrious.CrossCore.dll
+/Users/noammeirofek/Projects/PickMyLink/PickMyLink/bin/Debug/Cirrious.MvvmCross.Localization.dll
+/Users/noammeirofek/Projects/PickMyLink/PickMyLink/bin/Debug/Cirrious.MvvmCross.dll
